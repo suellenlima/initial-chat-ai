@@ -26,3 +26,15 @@ In the search bar, type “format on save”
 Make sure the “format on save” option is selected!
 
 npm install --save-dev @types/react @types/react-dom
+
+abra o powershell do windows e:
+winget install -e --id Python.Python.3.13
+
+Python.3.13
+
+python extension in vs code
+
+dbeaver
+
+abra o powershell do windows e crie uma maquina virtual linux para rodar o docker:
+Enable-WindowsOptionalFeature -Online -FeatureName VirtualMachinePlatform
